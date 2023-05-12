@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/pol/Repos/rmf_sim_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/misc/eigen_checks/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/misc/mav_comm/mav_msgs/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/misc/mav_comm/mav_planning_msgs/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/misc/minkindr/minkindr/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/misc/minkindr_ros/minkindr_conversions/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/nanomap_ros/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/misc/numpy_eigen/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/rmf_guidance/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/rmf_planner/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/rotors_simulator/rotors_control/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/rotors_simulator/rotors_gazebo_plugins/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/rotors_simulator/rotors_joy_interface/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/vl53l0x/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/misc/voxblox/voxblox/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/misc/voxblox/voxblox_ros/include/**",
+                "/home/pol/Repos/rmf_sim_ws/src/misc/voxblox/voxblox_rviz_plugin/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
